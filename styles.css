@@ -90,16 +90,6 @@ picture {
 	display: block;
 }
 
-.about-me img{
-	filter: grayscale(100%);
-	transition: all 0.3s ease-in-out;
-	border-radius: 50px;
-}
-.about-me img:hover{	
-	filter: grayscale(0%);
-}
-
-
 input,
 button,
 textarea,
